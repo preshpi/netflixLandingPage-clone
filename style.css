@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Roboto',
+}
+
+.hero{
+    background-image: url('https://res.cloudinary.com/dpokiomqq/image/upload/v1669046856/NG-en-20221114-popsignuptwoweeks-perspective_alpha_website_small_y0nas7.jpg');
+    background-repeat: no-repeat;
+    height: 90vh;
+    background-size: cover;
+}
+
+.nav{
+    height: 64px;
+    margin: 0 56px 0 56px;
+    position:relative;
+}
